@@ -1,0 +1,22 @@
+{
+  "storageTshirts" : {
+    "S": 20,
+    "M": 30,
+    "L": 40,
+    "XL": 30,
+    "XXL": 20,
+    "XXXL": 10
+},
+  "athleteChoise": [
+    { "name": "Kirill", "sizes": ["M", "L"] },
+    { "name": "Peta", "sizes": ["L", "XL"] },
+    { "name": "John", "sizes": ["M", "L"] },
+    { "name": "Dima", "sizes": ["M"] },
+    { "name": "Lev", "sizes": ["L"] },
+    { "name": "Sasha", "sizes": ["XXXL"] },
+    { "name": "Masha", "sizes": ["XL"] },
+    { "name": "Name", "sizes": ["XXXL"] },
+    { "name": "Noname", "sizes": ["L"] },
+    { "name": "NeShash", "sizes": ["XXXL"] }
+  ]
+}
